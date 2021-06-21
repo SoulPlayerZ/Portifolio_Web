@@ -1,0 +1,68 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(56, 75, 95);
+    color: rgb(202, 204, 224);
+    white-space: nowrap;
+}
+
+.hero{
+    margin-bottom: 10px;
+    padding-top: 8px;   
+    background-size: inherit;
+    background-image: url(TT.png);
+    background-position-x: -205px;
+    background-position-y: -180px;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    border:3px solid  rgb(58, 83, 105);
+    
+}
+.img{
+    border-radius: 80%;
+    border: 5px solid rgb(68, 89, 121);
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+h1{
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+ul li{
+    font-size: 18px;
+
+}
+h2{
+    font-size: 28px;
+    margin: 30px;
+    margin-left: 50px;
+    text-decoration: underline;
+    color: rgb(134, 141, 211);
+    font-weight: bold;
+
+}
+h3{
+    font-family: 'Arial', 'Courier New', Courier, monospace;
+    text-align: left;
+    margin: 20px;
+    margin-left: 8px;
+    color: rgb(214, 216, 236);
+    
+}
+p{
+    text-align: justify;
+    margin-left: 12px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+    
+}
+.list li{
+    margin-left: 50px;
+    margin-bottom: 8px;
+    
+}
+#construcao{
+    font-size: 80px;
+}
